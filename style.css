@@ -55,6 +55,7 @@ a.btn {
   -webkit-transition: box-shadow 1s ease;
 	transition: box-shadow 1s ease;
 float: right;
+	display: inline-block;
 }
 
 a.btn:hover {
