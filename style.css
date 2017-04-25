@@ -33,7 +33,7 @@ div.container {
 h1 {
   color: #fff;
   font-family: 'Playfair Display', serif;
-  font-size: 52px;
+  font-size: 48px;
   font-weight: 900;
   line-height: 46px;
   margin: 0 0 60px 0;
@@ -54,6 +54,7 @@ a.btn {
   text-transform: uppercase;
   -webkit-transition: box-shadow 1s ease;
 	transition: box-shadow 1s ease;
+	position: relative;
 }
 
 a.btn:hover {
