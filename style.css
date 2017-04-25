@@ -54,7 +54,7 @@ a.btn {
   text-transform: uppercase;
   -webkit-transition: box-shadow 1s ease;
 	transition: box-shadow 1s ease;
-	position: relative;
+float: right;
 }
 
 a.btn:hover {
