@@ -57,7 +57,8 @@ a.btn {
 }
 div.lang{display: inline-block;}
 a.btn:hover {
-	box-shadow: 0px 8px 8px rgba(34,62,66,.5);
+	box-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+		0px 8px 8px rgba(34,62,66,.5)
 	-webkit-transition: box-shadow 1s ease;
 	transition: box-shadow 1s ease;
 
