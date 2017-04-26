@@ -41,11 +41,10 @@ h1 {
   text-shadow: 0px 2px 4px rgba(34,62,66,.75);
   width: 50%;
 }
-
-div.btn {
+a.btn {
 	display: inline-block;
 	background: linear-gradient(45deg, rgba(255,184,115,0.65) 0%,rgba(255,124,189,0.65) 50%,rgba(108,0,153,0.65) 100%);
-	border-radius: 10px;
+	border-radius: 2px;
 	box-shadow: 0px 2px 4px rgba(34,62,66,.25);
   color: #fff;
   font-size: 18px;
@@ -55,15 +54,10 @@ div.btn {
   text-transform: uppercase;
   -webkit-transition: box-shadow 1s ease;
 	transition: box-shadow 1s ease;
-
-
 }
-
 
 a.btn:hover {
 	box-shadow: 0px 4px 4px rgba(34,62,66,.5);
 	-webkit-transition: box-shadow 1s ease;
 	transition: box-shadow 1s ease;
-
-
 }
